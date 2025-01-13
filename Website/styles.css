@@ -1,0 +1,31 @@
+body {
+	background-color: black; color:yellow;
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+}
+h1 {
+	color:white;
+}
+h2 {
+	color:white;
+}
+header {
+	text-align:center;
+}
+footer {
+	text-align:center;
+}
+nav  {
+	text-align:center
+}
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
