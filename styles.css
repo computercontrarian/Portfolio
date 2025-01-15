@@ -2,6 +2,7 @@ body {
 	background-color: black; color:yellow;
 	background-image: url('background.jpg');
 	background-repeat: no-repeat;
+	font-family: "Lucida Console", "Courier New", monospace;
 }
 h1 {
 	color:white;
